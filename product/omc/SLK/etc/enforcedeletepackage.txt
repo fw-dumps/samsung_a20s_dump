@@ -1,0 +1,14 @@
+13
+99Taxis.apk
+Amazon_Shopping.apk
+AsphaltNitro.apk
+Booking_deletable.apk
+Dailyhunt.apk
+DisneyMagicKingdom.apk
+ElTiempo.apk
+NubiWallet.apk
+SamsungDotCom.apk
+SamsungPayStub.apk
+SecEmail_P.apk
+Snapchat.apk
+Spotify.apk

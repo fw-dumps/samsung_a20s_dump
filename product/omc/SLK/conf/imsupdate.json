@@ -1,0 +1,18 @@
+{
+  "update_version": 1,
+  "note": "Enable IMS for Airtel SLK",
+  "imsswitch_update":
+  {
+    "defaultswitch": {
+    },
+    "imsswitch": [
+      {
+        "mnoname": "AIRTEL_LK",
+        "enableIms": true,
+        "enableServiceVolte": true,
+        "enableServiceVilte": true,
+        "enableServiceSmsip": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+ro.omc.build.version=A207FODM3CUL2
+ro.omc.build.id=47355257
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE

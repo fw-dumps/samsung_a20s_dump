@@ -1,0 +1,14 @@
+# a20sxx-user 11 RP1A.200720.012 A207FXXU3CUL1 release-keys
+- manufacturer: 
+- platform: msm8953
+- codename: a20s
+- flavor: a20sxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A207FXXU3CUL1
+- tags: release-keys
+- fingerprint: samsung/a20sxx/a20s:11/RP1A.200720.012/A207FXXU3CUL1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a20sxx-user-11-RP1A.200720.012-A207FXXU3CUL1-release-keys
+- repo: samsung_a20s_dump
