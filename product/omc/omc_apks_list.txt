@@ -1,0 +1,6 @@
+/product/app/mygalaxy-derived-3.4.3/mygalaxy-derived-3.4.3.apk
+/product/app/MyGalaxyWidget/MyGalaxyWidget.apk
+/product/app/MyGalaxyWidget_NEBANGS/MyGalaxyWidget_NEBANGS.apk
+/product/priv-app/AliveService/AliveService.apk
+/product/priv-app/appcloud_oobe/appcloud_oobe.apk
+/product/priv-app/MyGalaxy/MyGalaxy.apk

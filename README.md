@@ -1,0 +1,19 @@
+## a20sxx-user 11 RP1A.200720.012 A207FXXU5CWH1 release-keys
+- Manufacturer: samsung
+- Platform: msm8953
+- Codename: a20s
+- Brand: samsung
+- Flavor: a20sxx-user
+- Release Version: 11
+- Kernel Version: 4.9.227
+- Id: RP1A.200720.012
+- Incremental: A207FXXU5CWH1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a20sxx/a20s:11/RP1A.200720.012/A207FXXU5CWH1:user/release-keys
+- OTA version: 
+- Branch: a20sxx-user-11-RP1A.200720.012-A207FXXU5CWH1-release-keys
+- Repo: samsung_a20s_dump

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A207F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>ODM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A207FODM</CSCName>
+        <CSCVersion>5CWH1</CSCVersion>
+        <NbCustomer>4</NbCustomer>
+        <CustomerData src="/Customer/BKD/customer.xml" />
+        <CustomerData src="/Customer/INS/customer.xml" />
+        <CustomerData src="/Customer/NPL/customer.xml" />
+        <CustomerData src="/Customer/SLK/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>BKD</CustomerCode>
+            <Version>SAOMC_SM-A207F_ODM_BKD_RR_0006</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>INS</CustomerCode>
+            <Version>SAOMC_SM-A207F_ODM_INS_RR_0015</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+                <package name="com.samsung.ecomm.global.in" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>NPL</CustomerCode>
+            <Version>SAOMC_SM-A207F_ODM_NPL_RR_0006</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SLK</CustomerCode>
+            <Version>SAOMC_SM-A207F_ODM_SLK_RR_0007</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
